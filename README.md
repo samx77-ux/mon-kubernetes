@@ -12,7 +12,7 @@ manuellement et Kubernetes l'a recréé tout seul en quelques secondes.
 Sans que je fasse quoi que ce soit.
 
 J'ai aussi installé Prometheus et Grafana pour surveiller mon infrastructure 
-en temps réel. Me voir un vrai dashboard avec des graphiques de mon app 
+en temps réel. Voir un vrai dashboard avec des graphiques de mon app 
 c'était satisfaisant.
 
 ## 🛠️ Ce que j'ai utilisé
